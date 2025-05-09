@@ -1,1 +1,4 @@
 Hari pertama belajar Git!
+Baris kedua
+Baris Kedua
+Ini baris kedua di file belajar.txt
