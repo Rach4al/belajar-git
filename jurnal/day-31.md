@@ -25,4 +25,8 @@ Hari ini saya belajar tentang bagaimana Git digunakan dalam workflow developer p
 - Commit sebaiknya selalu punya pesan yang jelas dan singkat
 - Push baru akan mengirim commit ke GitHub, bukan otomatis saat commit
 
+<<<<<<< HEAD
 saya merasa lebih nyaman menggunakan Git setelah paham perbedaan kerja Git Bash dan Visual Studio Code
+=======
+saya merasa lebih nyaman menggunakan Git setelah paham perbedaan kerja Git Bash dan Visual Studio Code
+>>>>>>> 31b06a7e34c5197dee5dfd544b2bbb37c539802d
